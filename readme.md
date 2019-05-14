@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center"><strong>
 Club API
-</p>
+    </strong></p>
 
 ## About Club API
 
